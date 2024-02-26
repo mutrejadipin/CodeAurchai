@@ -13,3 +13,4 @@ accountPassword="12aB"
 accountCity="Noida"
 
 console.table([accountID,accountEmail,accountPassword,accountCity,accountState])
+
