@@ -1,3 +1,2 @@
 console.log("Dipin")
-console.log("Welcome")
-console.log("to world of JS")
+console.log("Welcome to world of JS")

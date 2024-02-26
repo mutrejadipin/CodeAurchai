@@ -4,6 +4,7 @@ var accountPassword="12Ab" /**not used frequetly because of its issue in block s
 accountCity="Gurgaon"
 let accountState;
 
+
 console.log(accountID)
 //accountID=1112
 //console.log(accountID) -> because const cant change

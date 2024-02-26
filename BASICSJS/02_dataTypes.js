@@ -13,7 +13,6 @@
  * symbol =>to find uniqueness
  * Object=>
  * 
- * 
  */
 let age=10
 console.log(typeof age )
