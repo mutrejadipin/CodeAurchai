@@ -2,7 +2,7 @@ const accountID=1122
 let accountEmail="mutreja@google.com"
 var accountPassword="12Ab" /**not used frequetly because of its issue in block scope and functional scope */
 accountCity="Gurgaon"
-let accountState;
+let accountState; //undefined
 
 
 console.log(accountID)
